@@ -1,0 +1,23 @@
+{
+  "name": "asar-require-auto",
+  "version": "0.7.4",
+  "description": "Auto require asar file if it exists",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StudioASC/node-asar-require-auto.git"
+  },
+  "keywords": [
+    "require",
+    "asar"
+  ],
+  "author": "StudioASC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StudioASC/node-asar-require-auto/issues"
+  },
+  "homepage": "https://github.com/StudioASC/node-asar-require-auto#readme"
+}
