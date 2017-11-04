@@ -14,7 +14,7 @@
     "require",
     "asar"
   ],
-  "author": "StudioASC",
+  "author": "stuido_asc",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/StudioASC/node-asar-require-auto/issues"
