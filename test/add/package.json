@@ -1,0 +1,8 @@
+{
+  "name": "add",
+  "version": "1.0.0",
+  "description": "a test package",
+  "main": "index.js",
+  "author": "StudioASC",
+  "license": "MIT"
+}
