@@ -4,7 +4,7 @@
   "description": "Auto require asar file if it exists",
   "main": "index.js",
   "scripts": {
-    "test": "mocha ./test/*"
+    "test": "node ./test/index.test.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/StudioASC/node-asar-require-auto/issues"
   },
-  "homepage": "https://github.com/StudioASC/node-asar-require-auto#readme"
+  "homepage": "https://github.com/StudioASC/node-asar-require-auto#readme",
+  "devDependencies": {
+    "asar": "^0.14.0"
+  },
+  "dependencies": {
+    "asar-require": "^0.3.0"
+  }
 }
