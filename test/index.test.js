@@ -1,9 +1,9 @@
-const autoRequire = require('../index.js');
+const autoRequire = require('../index.js')
 
 try {
-  let add = autoRequire('./test/add.asar');
-  if (add(1,1) != 2) throw Error("require fail!")
+  let add = autoRequire('./test/add.asar')
+  if (add(1, 1) !== 2) throw Error('require fail!')
 } catch (err) {
-  console.log(err);
-  process.exit(1);
+  console.log(err)
+  process.exit(1)
 }
