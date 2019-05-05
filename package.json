@@ -1,6 +1,6 @@
 {
   "name": "asar-require-auto",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Auto require asar file if it exists",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/StudioASC/node-asar-require-auto.git"
+    "url": "git+https://github.com/kiochan/asar-require-auto.git"
   },
   "keywords": [
     "require",
@@ -17,9 +17,9 @@
   "author": "kiochan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/StudioASC/node-asar-require-auto/issues"
+    "url": "https://github.com/kiochan/asar-require-auto.git/issues"
   },
-  "homepage": "https://github.com/StudioASC/node-asar-require-auto#readme",
+  "homepage": "https://github.com/kiochan/asar-require-auto#readme",
   "devDependencies": {
     "asar": "^0.14.0"
   },
