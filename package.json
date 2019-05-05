@@ -1,6 +1,6 @@
 {
   "name": "asar-require-auto",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "Auto require asar file if it exists",
   "main": "index.js",
   "scripts": {
